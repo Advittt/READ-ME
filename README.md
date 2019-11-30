@@ -29,14 +29,6 @@ if __name__ == '__main__':
 
 <!DOCTYPE html>
 <html>
-<style>
-    body {
-        background-image: url('thePong.jpg');
-        background-repeat: no-repeat;
-        background-attachment: fixed;  
-        background-size: cover;
-    }
-    </style>
 <body>
 <h2 style="color:blue">Redirecting Button</h2>
 <p>When clicking this form(button), you will be redirected to Bedford School website:</p>
