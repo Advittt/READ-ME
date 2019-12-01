@@ -1,3 +1,5 @@
+# Python
+
 ``` python
 
 from flask import Flask, render_template, request
@@ -65,3 +67,16 @@ if __name__ == '__main__':
 
 # this is what it will kind of look like
 ## Redirecting Button
+
+When clicking this form(button), you will be redirected to Bedford School website:
+
+[goToBedfordSchool](https://www.bedfordschool.org.uk/)
+
+input radius: 
+
+|      |
+| --- |
+
+---
+
+Radius = (their input)
