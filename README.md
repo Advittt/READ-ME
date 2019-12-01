@@ -1,4 +1,5 @@
-## PYTHON:
+``` python
+
 from flask import Flask, render_template, request
 app = Flask(__name__)
 
@@ -19,14 +20,15 @@ def getRadius():
         radius = int(radius)
         return render_template("circles.html",radius=radius)       
 
-
-
 if __name__ == '__main__':
    app.run(debug = True)
+```
 
-## TEMPLATES:
+
+# TEMPLATES:
+
 ## conatact.html:
-
+``` html
 <!DOCTYPE html>
 <html>
 <body>
@@ -45,9 +47,10 @@ if __name__ == '__main__':
          
 </body>
 </html>
-
+ 
+```
 ## circles.html:
-
+``` html
 <!DOCTYPE html>
 <html>
    <body>
@@ -56,3 +59,9 @@ if __name__ == '__main__':
 
    </body>
 </html>
+```
+
+<!-- apperance -->
+
+# this is what it will kind of look like
+## Redirecting Button
