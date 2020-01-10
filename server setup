@@ -1,5 +1,5 @@
 Server:
-```c#
+```cs
 using System;
 using System.Collections.Generic;
 using System.Net;
@@ -164,7 +164,7 @@ namespace multiServer
 ```
 client:
 
-``` c#
+``` cs
 using System;
 using System.Net.Sockets;
 using System.Net;
