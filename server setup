@@ -304,9 +304,3 @@ namespace multiClientServer
 }
 
 ```
-
-```python
-
-print("hello world")
-
-```
