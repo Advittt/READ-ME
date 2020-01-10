@@ -1,7 +1,7 @@
 Server:
 
 
-```
+```csharp
 using System;
 using System.Collections.Generic;
 using System.Net;
@@ -167,7 +167,7 @@ namespace multiServer
 client:
 
 
-``` 
+```csharp
 using System;
 using System.Net.Sockets;
 using System.Net;
